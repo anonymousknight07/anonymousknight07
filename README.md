@@ -1,4 +1,3 @@
-<p align="Center" ><img src="https://i.imgur.com/O3Bxs16.gif" width="1280px" height="440px"></p>
 
 <h1 align="Center">  Hey there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> , I'm Akshat Pandey  </h1>
 <h3 align="center">An aspiring FullStack Developer and programmer from India</h3>
