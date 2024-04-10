@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **React, Firebase**
 
-- 👨‍💻 All of my projects are available at [https://akshathpandey07.netlify.app/](https://akshathpandey07.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://akshath07.vercel.app/](https://akshat07.vercel.app/)
 
 - 💬 Ask me about **C++, Python, FrontEnd**
 
