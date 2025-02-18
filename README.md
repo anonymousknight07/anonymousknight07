@@ -1,39 +1,61 @@
+<h1 align="center">Hey there 👋, I'm <span style="color:#E57373;">Akshat Pandey</span>!</h1>
+<h3 align="center">Software Developer | Full-Stack Engineer | Tech Enthusiast</h3>
 
-<h1 align="Center">  Hey there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> , I'm Akshat ! ! </h1>
-<h3 align="center">An aspiring FullStack Developer and programmer from India.</h3>
-
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anonymousknight07&label=Profile%20views&color=0e75b6&style=flat" alt="anonymousknight07" /> </p>
-
-- 🔭 I’m currently working on [providing free resources for fullstack development for beginners](https://github.com/anonymousknight07/Full_Stack_Developer_Guide)
-
-- 🌱 I’m currently learning **React, Firebase**
-
-- 👨‍💻 All of my projects are available at [https://akshath07.vercel.app/](https://akshat07.vercel.app/)
-
-- 💬 Ask me about **C++, Python, FrontEnd**
-
-- 📫 How to reach me **akshath0703@gmail.com**
-
-- ⚡ Fun fact **I am funny and easy to work with.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/akshat-pandey-5a2107228" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshat-pandey-5a2107228" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/17843401" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17843401" height="30" width="40" /></a>
-<a href="https://instagram.com/akshat___pandey07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akshat___pandey07" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/anonyknight1" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/11960354?v=4" alt="anonyknight1" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/21951a0504" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="21951a0504" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/laser_b_1033" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="laser_b_1033" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/21951a0504" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="21951a0504" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anonymousknight07&label=Profile%20views&color=E57373&style=flat" alt="Profile Views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e5c8b32c-95e0-4e4d-9980-65342a32713f" alt="Akshat's Logo" width="400"/>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anonymousknight07&show_icons=true&locale=en&layout=compact" alt="anonymousknight07" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anonymousknight07&show_icons=true&locale=en" alt="anonymousknight07" /></p>
+## 🚀 About Me
+- 🔨 **Building Boundspec** – Driving innovation with scalable tech solutions  
+- 🎯 Passionate about **building full-stack web applications & AI-powered tools**  
+- 🌱 Exploring **React, Next.js, and Firebase**  
+- 🏆 **Ranked AIR 4** in the National Entrepreneurship Challenge  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anonymousknight07&" alt="anonymousknight07" /></p>
+---
+
+## 🔧 Technologies & Tools
+
+- **Languages:** C++, Python, GoLang, JavaScript  
+- **Web Development:** React, Next.js, Tailwind CSS  
+- **Backend & Databases:** Firebase, MongoDB, SQL, Express.js  
+- **DevOps & Cloud:** AWS EC2, Docker  
+- **Other Tools:** Git, Webflow, Stripe  
+
+---
+
+## 🛠 Featured Projects  
+
+- 🎯 **[Skill Match AI](https://skillmatchai.vercel.app/)** – AI-powered resume builder  
+- 🎟 **[TicketSphere](https://ticketsecell.vercel.app/)** – Event ticketing platform for E-Cell IARE  
+- 🤔 **[Whattif](https://whattif.vercel.app/)** – A thought-provoking idea exploration platform  
+
+---
+
+## 📈 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anonymousknight07&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+---
+
+## 📫 Connect with Me  
+<p align="center">
+  <a href="https://linkedin.com/in/akshatpandey07" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/anonymousknight07" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://akshath.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Site-3DDC84?style=flat&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:akshath0703@gmail.com">
+    <img src="https://img.shields.io/badge/Email-akshath0703@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
